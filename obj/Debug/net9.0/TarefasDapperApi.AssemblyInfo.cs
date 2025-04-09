@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TarefasDapperApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af572b6738dfb9e90a79d907c59634abdf7c906")]
 [assembly: System.Reflection.AssemblyProductAttribute("TarefasDapperApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TarefasDapperApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

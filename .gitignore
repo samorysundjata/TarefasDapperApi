@@ -1,0 +1,106 @@
+# Build Folders (Bin and Obj)
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working files
+.vscode/
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+appsettings*.json
+secrets.json
+
+# Package directories
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# IDE-specific files
+.idea/
+*.ideworkspace
+
+# Temporary files
+*.tmp
+*.temp
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Coverage Results
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+
+# Publish output
+publish/
+
+# Entity Framework Migrations
+Migrations/
+
+# Local History for JetBrains IDEs
+.localhistory/
+
+# Backup files
+*.bak
+*.swp
+*.orig
+*.rej
+
+# StyleCop
+StyleCopReport.xml
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
